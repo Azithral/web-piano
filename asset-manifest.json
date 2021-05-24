@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-piano/static/css/main.f8a48809.chunk.css",
+    "main.js": "/web-piano/static/js/main.789028e7.chunk.js",
+    "main.js.map": "/web-piano/static/js/main.789028e7.chunk.js.map",
+    "runtime-main.js": "/web-piano/static/js/runtime-main.b8fb49c9.js",
+    "runtime-main.js.map": "/web-piano/static/js/runtime-main.b8fb49c9.js.map",
+    "static/js/2.b1efe1e7.chunk.js": "/web-piano/static/js/2.b1efe1e7.chunk.js",
+    "static/js/2.b1efe1e7.chunk.js.map": "/web-piano/static/js/2.b1efe1e7.chunk.js.map",
+    "index.html": "/web-piano/index.html",
+    "static/css/main.f8a48809.chunk.css.map": "/web-piano/static/css/main.f8a48809.chunk.css.map",
+    "static/js/2.b1efe1e7.chunk.js.LICENSE.txt": "/web-piano/static/js/2.b1efe1e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8fb49c9.js",
+    "static/js/2.b1efe1e7.chunk.js",
+    "static/css/main.f8a48809.chunk.css",
+    "static/js/main.789028e7.chunk.js"
+  ]
+}
